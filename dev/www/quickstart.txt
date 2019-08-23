@@ -1,0 +1,18 @@
+<h1>Understanding Media Categories</h1>
+Go Gallery enables Categories for Media Library Images. All images you want to display with Go Gallery has to be categorized. You will notice that Media Library now has one more column to display Media Category for each image.
+
+<img class="alignnone size-full" src="http://emtly.com/wordpress/go-gallery/wp-content/uploads/sites/2/2017/01/media-cat.png" alt="media-cat" />
+
+Go Gallery will display images by Categories. Categorizing images is a simple and straight-forward process and it's similar to categorizing your post.
+
+<img class="alignnone size-full" src="http://emtly.com/wordpress/go-gallery/wp-content/uploads/sites/2/2017/01/edit.png" alt="edit" />
+
+You can add more Media Categories directly in Image Edit or in Media Categories:
+
+<img class="alignnone size-full" src="http://emtly.com/wordpress/go-gallery/wp-content/uploads/sites/2/2017/01/media-cat-add.png" alt="media-cat-add" />
+
+Image name will be used as a caption. Image Description can be added in Image Edit page and it will appear under Image Caption:
+
+<img class="alignnone size-full" src="http://emtly.com/wordpress/go-gallery/wp-content/uploads/sites/2/2017/01/caption.png" alt="media-caption" />
+
+Last edited image will always appear as first in the gallery within it's category.

@@ -1,0 +1,37 @@
+<H1>
+ShortCode Attributes List::
+</H1>
+
+<pre>
+[ go_gallery OPTION1='use quotes for text values OPTIONS space separated' OPTION2=1 ]
+</pre>
+
+<ul>
+
+    <li><strong>go_gallery = </strong>Go Gallery opening shortcode all params follows space separated </li>
+    <li><strong>cat = </strong>'category1, category2, ...' - comma separated list of media categories to display</li>
+    <li><strong>size = </strong>'large/medium/small/tiny' - size of the gallery grid: </li>
+<ol>
+        <li><strong>large </strong>- 2 columns</li>
+        <li><strong>medium </strong>- 3 columns</li>
+        <li><strong>small </strong>- 4 columns</li>
+        <li><strong>tiny </strong>- 8 columns</li>
+</ol>
+    <li><strong>style = </strong>squared </li>
+    <li><strong>limit = </strong>1-200 - number of images to display (in total) </li>
+    <li><strong>border_size = </strong>size (in pixels) of the image border </li>
+    <li><strong>border_color = </strong>color '#HTML' of the image border </li>
+    <li><strong>gap = </strong>size (in pixels) of the gutter between images  </li>
+    <li><strong>bg =  </strong>color '#HTML' of the gallery background </li>
+    <li><strong>hover_data =  </strong>'yes/no' enables/disables image caption on mouse over (hover); default: 'yes' </li>
+    <li><strong>overlay_color =  </strong>color '#HTML' of the image hover overlay </li>
+    <li><strong>desc_color =  </strong>color '#HTML' of the overlay text description </li>
+    <li><strong>menu_show = </strong>'yes/no' or 1/0 </li>
+    <li><strong>menu_pos = </strong>'center/left/right' - menu position; works only when menu_show is 1 or 'yes' </li>
+    <li><strong>menu_gap = </strong>size (in pixels) of the gutter between menu buttons </li>
+    <li><strong>menu_button = </strong>'caption' of the 'Reset Sorting' button, first in sorting menu, default 'All' </li>
+    <li><strong>menu_color = </strong>color '#HTML' of the menu font </li>
+    <li><strong>menu_bg = </strong>color '#HTML' of the menu buttons (background) </li>
+    <li><strong>menu_bg_hover = </strong>color '#HTML' of the menu buttons (background) when active and on hover</li>
+    <li><strong>lightbox =  </strong>'yes/no' enables/disables custom lightbox on image click; default: 'yes' </li>
+</ul>

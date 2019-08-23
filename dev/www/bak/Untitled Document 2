@@ -1,0 +1,54 @@
+<h1>GoGallery</h1>
+<p>
+This plugin has been created to display beautiful and functional sortable grid galleries with minimum configuration effort and without slowing down your page load.
+</p><p>
+Go Gallery is a powerful responsive grid gallery wordpress plugin. You can change spacings, frames, colors, etc. by simply adjusting settings directly in shortcodes. Unlimited number of galleries with different settings can be used on any page or in posts.
+</p><p>
+Go Gallery is optimized for speed. Configuration is fast and simple, everything can be done just by using shortcode(s).
+</p><p>
+Go Gallery enables categories in media images and adds filter menu to each gallery for easy and beautiful sorting.
+</p>
+
+<h2>FEATURES</h2>
+
+        <li>Media Categories - Unlike most others Go Gallery let you organize standard Media Library images into categories.</li>
+        <li>Masonry Grid - No columns!</li>
+        <li>Gallery Category Sort Menu - Categorized images can be filtered by user</li>
+        <li>Short-Codes Driven - Easy to use inline shortcode params</li>
+        <li>100% Responsive - Works on any mobile device</li>
+        <li>Caption Effect - MouseOver effects on/off</li>
+        <li>LightBox on/off functionality</li>
+        <li>Unlimited Galleries on Page - Add as much categories and galleries on any page</li>
+        <li>Works with your favorite Lightbox plugin (or use the packaged PrettyPhoto)</li>
+        <li>SEO friendly</li>
+        <li>Easy to use</li>
+
+<h2>EXAMPLES</h2>
+
+<h2>Large Original Gallery ShortCode::</h2>
+<pre>[ go_gallery cat='single, couple' size='large' limit=12 ]</pre>
+[go_gallery cat='single, couple' size='large' limit=12]
+
+<h2>Large Squared Gallery ShortCode::</h2>
+<pre>[ go_gallery cat='sand, water' size='large' limit=12 style='squared' menu_button='RESET FILTER' ]</pre>
+[go_gallery menu_button='RESET FILTER' cat='sand, water' size='large' limit=12 style='squared']
+
+<h2>Medium Gallery ShortCode::</h2>
+<pre>[ go_gallery cat='single, couple' size='medium' gap=5 border_size=0 bg='#fff' menu_show=0 limit=12 ]</pre>
+[go_gallery cat='single, couple' size='medium' gap=5 border_size=0 bg='#fff' menu_show=0 limit=12]
+
+<h2>Small Gallery ShortCode::</h2>
+<pre>[ go_gallery cat='year-2015, year-2016' size='small' gap=20 border_size=10 limit=12 menu_show=1 ]</pre>
+[go_gallery cat='year-2015, year-2016' size='small' gap=20 border_size=10 limit=12 menu_show=1]
+
+<h2>Tiny Gallery ShortCode::</h2>
+<pre>[ go_gallery cat='single, couple' size='tiny' limit=12]</pre>
+[go_gallery cat='single, couple' size='tiny' limit=12 ]
+
+<h2>No Gutters No Borders Gallery ShortCode::</h2>
+<pre>[ go_gallery cat='single, couple' size='large' gap=0 border_size=0 menu_show=0 limit=10 ]</pre>
+[go_gallery cat='single, couple' size='large' gap=0 border_size=0 menu_show=0 limit=10]
+
+<h2>No Gutters No Borders Medium Gallery with some advanced menu options ShortCode::</h2>
+<pre>[ go_gallery cat='single, couple' size='medium' gap=0 border_size=0 menu_show=1 bg='#fff' menu_pos='center' menu_color='#fff' menu_bg='#999' menu_bg_hover='#f00' menu_gap=0 limit=12 ]</pre>
+[go_gallery cat='single, couple' size='medium' gap=0 border_size=0 menu_show=1 bg='#fff' menu_pos='center' menu_color='#fff' menu_bg='#999' menu_bg_hover='#f00' menu_gap=0 limit=12]
